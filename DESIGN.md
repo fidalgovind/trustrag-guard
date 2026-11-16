@@ -1,4 +1,4 @@
-# TrustRAG-Guard — Corrected Architecture & Innovation Plan
+# TrustRAG-Guard — Architecture & Innovation Plan
 
 **A design + study companion. Version 0.22 — 2026-11-08.**
 

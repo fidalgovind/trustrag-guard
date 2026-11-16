@@ -1,0 +1,23 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.pytest_cache/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# TrustRAG-Guard build artifacts (regenerable from calibration)
+fitted_models/
+thresholds.json
+*.npy
+*.pkl
+.cache/
+
+# Downloaded datasets (CC BY-SA 4.0 for NQ; regenerable, never committed)
+data/

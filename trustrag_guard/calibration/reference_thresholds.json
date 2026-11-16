@@ -1,0 +1,23 @@
+{
+  "warning": "Fitted on this dataset with this embedder. Refit before using them elsewhere.",
+  "embedding_model": "all-MiniLM-L6-v2",
+  "dataset": "BEIR NQ, 50,076 passage subset, seed 42",
+  "fitted_on": "2026-11-06",
+  "over_retrieve": 30,
+  "top_k": 5,
+  "alphas": {
+    "threshold": 0.01,
+    "tau": 0.01,
+    "high": 0.01,
+    "low": 0.05
+  },
+  "values": {
+    "threshold": 0.8314071790601822,
+    "clean_median": 0.5184703675153353,
+    "tau": 0.16078224103045588,
+    "low": 0.6453697482911845,
+    "high": 0.8694174757281553,
+    "n_pools": 100,
+    "n_scores": 500
+  }
+}
